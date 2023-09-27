@@ -1,29 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ruturaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruturaj2829&label=Profile%20views&color=0e75b6&style=flat" alt="ruturaj2829" /> </p>
+![Ruturaj](https://ibb.co/GsytdRZ)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruturaj2829" alt="ruturaj2829" /></a> </p>
+**Languages I have used**
 
-- 🔭 I’m currently working on **Chess bot**
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C++, DSA**
+**Some of the technologies I have worked with**
 
-- 📫 How to reach me **ruturajsonkambleltd@gmail.com**
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ruturaj81034965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruturaj81034965" height="30" width="40" /></a>
-<a href="https://instagram.com/rajjj_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajjj_._" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+**Web/Full Stack projects**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruturaj2829&show_icons=true&locale=en&layout=compact" alt="ruturaj2829" /></p>
+[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruturaj2829&show_icons=true&locale=en" alt="ruturaj2829" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruturaj2829&" alt="ruturaj2829" /></p>
+### GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruturaj2829&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj2829&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)
+
+⭐️ From [Ruturaj](https://github.com/ruturaj2829)
