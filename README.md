@@ -1,5 +1,5 @@
 
-![Ruturaj](https://github.com/ruturaj2829/ruturaj2829/blob/main/ezgif.com-add-text.gif)
+![Ruturaj](https://github.com/ruturaj2829/ruturaj2829/blob/main/ezgif.com-optimize.gif)
 
 **Languages I have used**
 
